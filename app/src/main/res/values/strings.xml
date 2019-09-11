@@ -20,4 +20,5 @@
     <string name="insertar_precio">Insertar precio</string>
     <string name="guardar">Guardar</string>
     <string name="success">La información se ha insertado exitosamente</string>
+    <string name="menu_lista_produtos">Menú lista producto</string>
 </resources>
